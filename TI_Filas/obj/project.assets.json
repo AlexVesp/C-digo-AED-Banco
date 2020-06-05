@@ -1,0 +1,43 @@
+{
+  "version": 3,
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {}
+  },
+  "libraries": {},
+  "projectFileDependencyGroups": {
+    ".NETCoreApp,Version=v3.1": []
+  },
+  "packageFolders": {
+    "C:\\Users\\Alex\\.nuget\\packages\\": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "C:\\Users\\Alex\\Desktop\\11b367b2-0ab3-4a3d-aadb-d5cabd54ae4a_1932905_P2_Rafael Massula de Almeida\\TI_Filas2\\TI_Filas\\TI_Filas\\TI_Filas\\TI_Filas.csproj",
+      "projectName": "TI_Filas",
+      "projectPath": "C:\\Users\\Alex\\Desktop\\11b367b2-0ab3-4a3d-aadb-d5cabd54ae4a_1932905_P2_Rafael Massula de Almeida\\TI_Filas2\\TI_Filas\\TI_Filas\\TI_Filas\\TI_Filas.csproj",
+      "packagesPath": "C:\\Users\\Alex\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\Alex\\Desktop\\11b367b2-0ab3-4a3d-aadb-d5cabd54ae4a_1932905_P2_Rafael Massula de Almeida\\TI_Filas2\\TI_Filas\\TI_Filas\\TI_Filas\\obj\\",
+      "projectStyle": "PackageReference",
+      "configFilePaths": [
+        "C:\\Users\\Alex\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+      ],
+      "originalTargetFrameworks": [
+        "netcoreapp3.1"
+      ],
+      "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "projectReferences": {}
+        }
+      }
+    },
+    "frameworks": {
+      "netcoreapp3.1": {}
+    }
+  }
+}

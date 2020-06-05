@@ -1,0 +1,61 @@
+C:\Users\rafae\OneDrive\Ambiente de Trabalho\TI_Filas\TI_Filas\bin\Debug\netcoreapp3.1\TI_Filas.exe
+C:\Users\rafae\OneDrive\Ambiente de Trabalho\TI_Filas\TI_Filas\bin\Debug\netcoreapp3.1\TI_Filas.deps.json
+C:\Users\rafae\OneDrive\Ambiente de Trabalho\TI_Filas\TI_Filas\bin\Debug\netcoreapp3.1\TI_Filas.runtimeconfig.json
+C:\Users\rafae\OneDrive\Ambiente de Trabalho\TI_Filas\TI_Filas\bin\Debug\netcoreapp3.1\TI_Filas.runtimeconfig.dev.json
+C:\Users\rafae\OneDrive\Ambiente de Trabalho\TI_Filas\TI_Filas\bin\Debug\netcoreapp3.1\TI_Filas.dll
+C:\Users\rafae\OneDrive\Ambiente de Trabalho\TI_Filas\TI_Filas\bin\Debug\netcoreapp3.1\TI_Filas.pdb
+C:\Users\rafae\OneDrive\Ambiente de Trabalho\TI_Filas\TI_Filas\obj\Debug\netcoreapp3.1\TI_Filas.csprojAssemblyReference.cache
+C:\Users\rafae\OneDrive\Ambiente de Trabalho\TI_Filas\TI_Filas\obj\Debug\netcoreapp3.1\TI_Filas.AssemblyInfoInputs.cache
+C:\Users\rafae\OneDrive\Ambiente de Trabalho\TI_Filas\TI_Filas\obj\Debug\netcoreapp3.1\TI_Filas.AssemblyInfo.cs
+C:\Users\rafae\OneDrive\Ambiente de Trabalho\TI_Filas\TI_Filas\obj\Debug\netcoreapp3.1\TI_Filas.dll
+C:\Users\rafae\OneDrive\Ambiente de Trabalho\TI_Filas\TI_Filas\obj\Debug\netcoreapp3.1\TI_Filas.pdb
+C:\Users\l.rocha\Desktop\TI_Filas\TI_Filas\bin\Debug\netcoreapp3.1\TI_Filas.exe
+C:\Users\l.rocha\Desktop\TI_Filas\TI_Filas\bin\Debug\netcoreapp3.1\TI_Filas.deps.json
+C:\Users\l.rocha\Desktop\TI_Filas\TI_Filas\bin\Debug\netcoreapp3.1\TI_Filas.runtimeconfig.json
+C:\Users\l.rocha\Desktop\TI_Filas\TI_Filas\bin\Debug\netcoreapp3.1\TI_Filas.runtimeconfig.dev.json
+C:\Users\l.rocha\Desktop\TI_Filas\TI_Filas\bin\Debug\netcoreapp3.1\TI_Filas.dll
+C:\Users\l.rocha\Desktop\TI_Filas\TI_Filas\bin\Debug\netcoreapp3.1\TI_Filas.pdb
+C:\Users\l.rocha\Desktop\TI_Filas\TI_Filas\obj\Debug\netcoreapp3.1\TI_Filas.csprojAssemblyReference.cache
+C:\Users\l.rocha\Desktop\TI_Filas\TI_Filas\obj\Debug\netcoreapp3.1\TI_Filas.AssemblyInfoInputs.cache
+C:\Users\l.rocha\Desktop\TI_Filas\TI_Filas\obj\Debug\netcoreapp3.1\TI_Filas.AssemblyInfo.cs
+C:\Users\l.rocha\Desktop\TI_Filas\TI_Filas\obj\Debug\netcoreapp3.1\TI_Filas.dll
+C:\Users\l.rocha\Desktop\TI_Filas\TI_Filas\obj\Debug\netcoreapp3.1\TI_Filas.pdb
+C:\Users\55319\Desktop\PUC 2020\Monitoria\Trabalho_Alexander\TI_FilasNova\TI_FilasNova\TI_Filas\TI_Filas\bin\Debug\netcoreapp3.1\TI_Filas.exe
+C:\Users\55319\Desktop\PUC 2020\Monitoria\Trabalho_Alexander\TI_FilasNova\TI_FilasNova\TI_Filas\TI_Filas\bin\Debug\netcoreapp3.1\TI_Filas.deps.json
+C:\Users\55319\Desktop\PUC 2020\Monitoria\Trabalho_Alexander\TI_FilasNova\TI_FilasNova\TI_Filas\TI_Filas\bin\Debug\netcoreapp3.1\TI_Filas.runtimeconfig.json
+C:\Users\55319\Desktop\PUC 2020\Monitoria\Trabalho_Alexander\TI_FilasNova\TI_FilasNova\TI_Filas\TI_Filas\bin\Debug\netcoreapp3.1\TI_Filas.runtimeconfig.dev.json
+C:\Users\55319\Desktop\PUC 2020\Monitoria\Trabalho_Alexander\TI_FilasNova\TI_FilasNova\TI_Filas\TI_Filas\bin\Debug\netcoreapp3.1\TI_Filas.dll
+C:\Users\55319\Desktop\PUC 2020\Monitoria\Trabalho_Alexander\TI_FilasNova\TI_FilasNova\TI_Filas\TI_Filas\bin\Debug\netcoreapp3.1\TI_Filas.pdb
+C:\Users\55319\Desktop\PUC 2020\Monitoria\Trabalho_Alexander\TI_FilasNova\TI_FilasNova\TI_Filas\TI_Filas\obj\Debug\netcoreapp3.1\TI_Filas.csprojAssemblyReference.cache
+C:\Users\55319\Desktop\PUC 2020\Monitoria\Trabalho_Alexander\TI_FilasNova\TI_FilasNova\TI_Filas\TI_Filas\obj\Debug\netcoreapp3.1\TI_Filas.csproj.CoreCompileInputs.cache
+C:\Users\55319\Desktop\PUC 2020\Monitoria\Trabalho_Alexander\TI_FilasNova\TI_FilasNova\TI_Filas\TI_Filas\obj\Debug\netcoreapp3.1\TI_Filas.AssemblyInfoInputs.cache
+C:\Users\55319\Desktop\PUC 2020\Monitoria\Trabalho_Alexander\TI_FilasNova\TI_FilasNova\TI_Filas\TI_Filas\obj\Debug\netcoreapp3.1\TI_Filas.AssemblyInfo.cs
+C:\Users\55319\Desktop\PUC 2020\Monitoria\Trabalho_Alexander\TI_FilasNova\TI_FilasNova\TI_Filas\TI_Filas\obj\Debug\netcoreapp3.1\TI_Filas.dll
+C:\Users\55319\Desktop\PUC 2020\Monitoria\Trabalho_Alexander\TI_FilasNova\TI_FilasNova\TI_Filas\TI_Filas\obj\Debug\netcoreapp3.1\TI_Filas.pdb
+C:\Users\55319\Desktop\PUC 2020\Monitoria\Trabalho_Alexander\TI_FilasNova\TI_FilasNova\TI_Filas\TI_Filas\obj\Debug\netcoreapp3.1\TI_Filas.genruntimeconfig.cache
+C:\Users\rafae\OneDrive\Ambiente de Trabalho\TI_Filas2 (extract.me)\TI_Filas\TI_Filas\TI_Filas\bin\Debug\netcoreapp3.1\TI_Filas.exe
+C:\Users\rafae\OneDrive\Ambiente de Trabalho\TI_Filas2 (extract.me)\TI_Filas\TI_Filas\TI_Filas\bin\Debug\netcoreapp3.1\TI_Filas.deps.json
+C:\Users\rafae\OneDrive\Ambiente de Trabalho\TI_Filas2 (extract.me)\TI_Filas\TI_Filas\TI_Filas\bin\Debug\netcoreapp3.1\TI_Filas.runtimeconfig.json
+C:\Users\rafae\OneDrive\Ambiente de Trabalho\TI_Filas2 (extract.me)\TI_Filas\TI_Filas\TI_Filas\bin\Debug\netcoreapp3.1\TI_Filas.runtimeconfig.dev.json
+C:\Users\rafae\OneDrive\Ambiente de Trabalho\TI_Filas2 (extract.me)\TI_Filas\TI_Filas\TI_Filas\bin\Debug\netcoreapp3.1\TI_Filas.dll
+C:\Users\rafae\OneDrive\Ambiente de Trabalho\TI_Filas2 (extract.me)\TI_Filas\TI_Filas\TI_Filas\bin\Debug\netcoreapp3.1\TI_Filas.pdb
+C:\Users\rafae\OneDrive\Ambiente de Trabalho\TI_Filas2 (extract.me)\TI_Filas\TI_Filas\TI_Filas\obj\Debug\netcoreapp3.1\TI_Filas.csprojAssemblyReference.cache
+C:\Users\rafae\OneDrive\Ambiente de Trabalho\TI_Filas2 (extract.me)\TI_Filas\TI_Filas\TI_Filas\obj\Debug\netcoreapp3.1\TI_Filas.csproj.CoreCompileInputs.cache
+C:\Users\rafae\OneDrive\Ambiente de Trabalho\TI_Filas2 (extract.me)\TI_Filas\TI_Filas\TI_Filas\obj\Debug\netcoreapp3.1\TI_Filas.AssemblyInfoInputs.cache
+C:\Users\rafae\OneDrive\Ambiente de Trabalho\TI_Filas2 (extract.me)\TI_Filas\TI_Filas\TI_Filas\obj\Debug\netcoreapp3.1\TI_Filas.AssemblyInfo.cs
+C:\Users\rafae\OneDrive\Ambiente de Trabalho\TI_Filas2 (extract.me)\TI_Filas\TI_Filas\TI_Filas\obj\Debug\netcoreapp3.1\TI_Filas.dll
+C:\Users\rafae\OneDrive\Ambiente de Trabalho\TI_Filas2 (extract.me)\TI_Filas\TI_Filas\TI_Filas\obj\Debug\netcoreapp3.1\TI_Filas.pdb
+C:\Users\rafae\OneDrive\Ambiente de Trabalho\TI_Filas2 (extract.me)\TI_Filas\TI_Filas\TI_Filas\obj\Debug\netcoreapp3.1\TI_Filas.genruntimeconfig.cache
+C:\Users\rafae\OneDrive\Ambiente de Trabalho\TI_Filas2\TI_Filas\TI_Filas\TI_Filas\bin\Debug\netcoreapp3.1\TI_Filas.exe
+C:\Users\rafae\OneDrive\Ambiente de Trabalho\TI_Filas2\TI_Filas\TI_Filas\TI_Filas\bin\Debug\netcoreapp3.1\TI_Filas.deps.json
+C:\Users\rafae\OneDrive\Ambiente de Trabalho\TI_Filas2\TI_Filas\TI_Filas\TI_Filas\bin\Debug\netcoreapp3.1\TI_Filas.runtimeconfig.json
+C:\Users\rafae\OneDrive\Ambiente de Trabalho\TI_Filas2\TI_Filas\TI_Filas\TI_Filas\bin\Debug\netcoreapp3.1\TI_Filas.runtimeconfig.dev.json
+C:\Users\rafae\OneDrive\Ambiente de Trabalho\TI_Filas2\TI_Filas\TI_Filas\TI_Filas\bin\Debug\netcoreapp3.1\TI_Filas.dll
+C:\Users\rafae\OneDrive\Ambiente de Trabalho\TI_Filas2\TI_Filas\TI_Filas\TI_Filas\bin\Debug\netcoreapp3.1\TI_Filas.pdb
+C:\Users\rafae\OneDrive\Ambiente de Trabalho\TI_Filas2\TI_Filas\TI_Filas\TI_Filas\obj\Debug\netcoreapp3.1\TI_Filas.csprojAssemblyReference.cache
+C:\Users\rafae\OneDrive\Ambiente de Trabalho\TI_Filas2\TI_Filas\TI_Filas\TI_Filas\obj\Debug\netcoreapp3.1\TI_Filas.csproj.CoreCompileInputs.cache
+C:\Users\rafae\OneDrive\Ambiente de Trabalho\TI_Filas2\TI_Filas\TI_Filas\TI_Filas\obj\Debug\netcoreapp3.1\TI_Filas.AssemblyInfoInputs.cache
+C:\Users\rafae\OneDrive\Ambiente de Trabalho\TI_Filas2\TI_Filas\TI_Filas\TI_Filas\obj\Debug\netcoreapp3.1\TI_Filas.AssemblyInfo.cs
+C:\Users\rafae\OneDrive\Ambiente de Trabalho\TI_Filas2\TI_Filas\TI_Filas\TI_Filas\obj\Debug\netcoreapp3.1\TI_Filas.dll
+C:\Users\rafae\OneDrive\Ambiente de Trabalho\TI_Filas2\TI_Filas\TI_Filas\TI_Filas\obj\Debug\netcoreapp3.1\TI_Filas.pdb
+C:\Users\rafae\OneDrive\Ambiente de Trabalho\TI_Filas2\TI_Filas\TI_Filas\TI_Filas\obj\Debug\netcoreapp3.1\TI_Filas.genruntimeconfig.cache
